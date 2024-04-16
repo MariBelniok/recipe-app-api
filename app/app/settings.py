@@ -41,6 +41,7 @@ INSTALLED_APPS = [
 
     # Libs
     'rest_framework',
+    'rest_framework.authtoken',
     'drf_spectacular',
 
     # Apps
